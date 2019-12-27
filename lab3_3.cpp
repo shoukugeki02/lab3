@@ -8,6 +8,7 @@ float hanaharumi = 0;
  while (N <= 69){
  	hanaharumi = hanaharumi+(1/N);
     N = N+1;
+    
 
  }  
  cout << hanaharumi; 
